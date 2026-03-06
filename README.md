@@ -26,9 +26,9 @@ git clone https://github.com/usuario/repositorio.git
 python main.py
 ## Autores
 ESTUDIANTES DE INGENIERÍA ELECTROMECÁNICA
-APELLIDO NOMBRE
-APELLIDO NOMBRE
-APELLIDO NOMBRE
+Gonzáles Baustista José Alberto
+Osorio Ruiz Aarón Isaí
+Ovando Ruiz Salvador Armando
 Instituto Tecnológico Superior de Comalcalco
 Tecnológico Nacional de México
 ## Asignatura
