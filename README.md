@@ -17,14 +17,14 @@ Este repositorio contiene el desarrollo de un algoritmo en Python para el análi
 /repositorio U2_ACT_02_PROBLEMARIO-SOLUCION-COMPUTADORA
 
 
-- CODIGO.py
+- #CODIGO.py
 - CAPTURA 1
 - CAPTURA 2
 - CAPTURA 3
 - README.md
 ## Uso del programa
 Ejecutar
-CODIGO.py
+#CODIGO.py
 ## Autores
 ESTUDIANTES DE INGENIERÍA MECATRONICA
 - Gonzáles Baustista José Alberto
