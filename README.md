@@ -35,7 +35,7 @@ Tecnológico Nacional de México
 - Diseño de Elementos Mecanicos
 - Profesor: Rafael Valenzuela Rodriguez
 - Actividad:
-U2 – Problemario Solución por Computadora
+U2_ACT_02_PROBLEMARIO SOLUCIÓN COMPUTADORA
 ## Licencia
 MIT License
 Este proyecto puede ser utilizado, modificado y distribuido libremente siempre que se mantenga el aviso
