@@ -21,7 +21,7 @@ Este repositorio contiene el desarrollo de un algoritmo en Python para el análi
 - CAPTURA 1
 - CAPTURA 2
 - CAPTURA 3
--README.md
+- README.md
 ## Uso del programa
 Ejecutar
 CODIGO.py
