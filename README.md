@@ -25,11 +25,11 @@ git clone https://github.com/usuario/repositorio.git
 2. Ejecutar
 python main.py
 ## Autores
-ESTUDIANTES DE INGENIERÍA MECATRONICA
+ESTUDIANTES DE INGENIERÍA MECATRONICA, 
 Gonzáles Baustista José Alberto; 
 Osorio Ruiz Aarón Isaí; 
 Ovando Ruiz Salvador Armando. 
-Instituto Tecnológico Superior de Comalcalco
+Instituto Tecnológico Superior de Comalcalco, 
 Tecnológico Nacional de México
 ## Asignatura
 Diseño en Ingeniería
