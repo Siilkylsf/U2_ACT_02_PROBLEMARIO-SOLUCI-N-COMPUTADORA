@@ -25,7 +25,7 @@ git clone https://github.com/usuario/repositorio.git
 2. Ejecutar
 python main.py
 ## Autores
-ESTUDIANTES DE INGENIERÍA ELECTROMECÁNICA
+ESTUDIANTES DE INGENIERÍA MECATRONICA
 Gonzáles Baustista José Alberto; 
 Osorio Ruiz Aarón Isaí; 
 Ovando Ruiz Salvador Armando. 
