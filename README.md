@@ -11,16 +11,6 @@ Este repositorio contiene el desarrollo de un algoritmo en Python para el análi
 - Factores de diseño usando criterios Goodman, Soderberg, Gerber y ASME
 ## Tecnologías utilizadas
 - Python 3.14
-## Estructura del repositorio
-/U2_ACT_02_PROBLEMARIO-SOLUCION-COMPUTADORA
-
-
-- #CODIGO.py
-- CAPTURA 1
-- CAPTURA 2
-- CAPTURA 3
-- CAPTURA 4 RESULTADOS CODIGO
-- README.md
 ## Uso del programa
 Ejecutar
 #CODIGO.py
